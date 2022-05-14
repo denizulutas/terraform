@@ -3,7 +3,6 @@
 Purpose of the this coding challenge is to write a terraform configuration files that crates the required resources.
 
 
-  
 ## Problem Statement
 
 - Create 2 ec2 instance
